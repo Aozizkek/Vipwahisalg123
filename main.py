@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # توكن بوت تلغرام
-bot = telebot.TeleBot('7107722751:AAGgHM06V7ix_Fje1AoFnloeJa1zOAQQp0I')
+bot = telebot.TeleBot('7087560091:AAFRq5CQx2o1YAEYeLw2DCQwkrb6mbDei4k')
 
 # تخزين الرقم الأخير الذي تم إدخاله ورمز الوصول الأول وتاريخ انتهاء الصلاحية
 last_phone_number = {}
